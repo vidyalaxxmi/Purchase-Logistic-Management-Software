@@ -23,7 +23,7 @@ A web-based application to manage import and domestic purchases, track deliverie
 7. Reporting & Dashboards: KPI tiles and charts covering transit, daily/weekly orders, funds needed, detention, LME/MCX comparisons, timelines.
 8. Important documents to upload per import PI, Sales Contract, Pre-payment receipt, Invoice, Packing List, COO, PSIC, FORM 9, FORM 6, Bill of Lading, Insurance, Detention receipt, COA.
 
-**Non-functional requirements **
+**Non functional requirements**
 
 1. Performance: support concurrent users with page loads in ~3–5s on broadband
 2. Scalability: handle 100% traffic growth over 2 years
